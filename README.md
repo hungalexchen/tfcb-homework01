@@ -3,7 +3,7 @@
 ## h
 # yoooooo
 
-**Welcome to Alex's Markdown page for homework1, idk what I'm doing**
+**Welcome to Alex's Markdown page for homework1**
 
 this is a sample list
 1. ni hao
