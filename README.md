@@ -14,6 +14,7 @@ this is a sample list
 ![some species](images/acanthomyrmex_ferox.jpg)
 
 | **person** | **pies**   |  **time (mins)** | 
+| ---------- | ---------- | ---------------- |
 | greg-------| 3          | 3                |
 | mona-------| 5          | 7                | 
 | lisa-------| 7          | 9                | 
