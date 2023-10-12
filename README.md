@@ -10,7 +10,8 @@ this is a sample list
 2. hello
 3. hola
 
-![test link](google.com)
+![test link](www.google.com)
+![link to excel](raw_data/survey_data.xlsx)
 ![some species](images/acanthomyrmex_ferox.jpg)
 
 | **person** | **pies**   |  **time (mins)** | 
@@ -19,7 +20,3 @@ this is a sample list
 | mona-------| 5          | 7                | 
 | lisa-------| 7          | 9                | 
 
-| Homework | Assigned Date | Due Date | Topic                                                                  |
-| -------- | ------------- | -------- | ---------------------------------------------------------------------- |
-| 1        | Oct 5         | Oct 12   | [Reproducible science, Git and GitHub, Markdown](homeworks/homework01) |
-| 2        | Oct 12        | Oct 19   | [Unix command line](homeworks/homework02)                              |
