@@ -13,7 +13,7 @@ this is a sample list
 ![test link](google.com)
 ![some species](images/acanthomyrmex_ferox.jpg)
 
-| **person** | **pies**   |  **time (mins)**          | 
-| greg | 3 | 3 |
-| mona    | 5 | 7    | 
-| lisa    | 7  | 9       | 
+| **person** | **pies**   |  **time (mins)** | 
+| greg-------| 3          | 3                |
+| mona-------| 5          | 7                | 
+| lisa-------| 7          | 9                | 
