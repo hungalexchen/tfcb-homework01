@@ -6,6 +6,6 @@ this is a sample list
 3. hola
 
 
-![some species](hchen234/tfcb-homework01/images/acanthomyrmex_ferox.jpg)
+![some species](images/acanthomyrmex_ferox.jpg)
 
 [this is a header test]
