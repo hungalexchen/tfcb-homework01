@@ -17,3 +17,8 @@ this is a sample list
 | greg-------| 3          | 3                |
 | mona-------| 5          | 7                | 
 | lisa-------| 7          | 9                | 
+
+| Homework | Assigned Date | Due Date | Topic                                                                  |
+| -------- | ------------- | -------- | ---------------------------------------------------------------------- |
+| 1        | Oct 5         | Oct 12   | [Reproducible science, Git and GitHub, Markdown](homeworks/homework01) |
+| 2        | Oct 12        | Oct 19   | [Unix command line](homeworks/homework02)                              |
