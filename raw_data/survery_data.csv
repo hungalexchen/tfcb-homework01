@@ -1,4 +1,4 @@
-Field Season,Species,Date Collection,Sex,Weight (g),Plot,Scale calibrated 
+field_season,species,date_collection,sex,weight_(g),plot,scale_calibrated
 2013,DM,20130716,F,N/A,2,Y
 2013,DM,20130716,M,33,7,Y
 2013,DM,20130716,M,N/A,3,Y
